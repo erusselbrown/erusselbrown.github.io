@@ -25,6 +25,6 @@ My GitHub page is http://github.com/erusselbrown.
 * Lab 2
 
     While lab 2 was a simple lab, I found it difficult at the time, something that I
-    find humorous now. I learned how to use mathematic operations in my code. I
+    find humorous now. I learned how to use mathematical operations in my code. I
     didn't even realize at the time that one could simply use operations to perform
     math functions. It was a great learning experience for me.
